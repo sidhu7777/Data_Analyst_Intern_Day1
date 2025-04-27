@@ -76,9 +76,5 @@ Student_Performance_Indicator/
 
 ---
 
-#  Short Description (for GitHub Pin or LinkedIn)
 
-> "A machine learning project analyzing the impact of demographic factors on student performance, covering full ML lifecycle from data preprocessing to model selection."
-
----
 
